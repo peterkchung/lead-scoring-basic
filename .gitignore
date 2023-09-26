@@ -2,3 +2,5 @@
 .env
 .vscode
 examples
+test.ipynb
+model_script.ipynb
