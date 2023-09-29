@@ -18,7 +18,7 @@ Given biographical and behavioral datapoints for a customer base, we designed a 
 
 ## Contribute
 
-As this is a work in progress, contributions, suggestions, and feedback are most welcome.
+Contributions, suggestions, and feedback are welcome.
 
 ## License
 
