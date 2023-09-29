@@ -14,7 +14,7 @@ Given biographical and behavioral datapoints for a customer base, we designed a 
 ## Installation & Usage
 
 1. **Requirements**: Please see requirements.txt
-2. **Usage**: Briefly explain how to use the project or run any scripts.
+2. **Usage**: Primarily built off scikit-learn in a Jupyter notebook.
 
 ## Contribute
 
